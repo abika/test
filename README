@@ -3,11 +3,10 @@ conflict!?
 
 local change
 
-<<<<<<< Updated upstream
+
 change web
 
-
 something
-=======
+
 stash test
->>>>>>> Stashed changes
+
